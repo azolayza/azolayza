@@ -12,18 +12,7 @@
 
 :arrow_double_up: Я закончила курс **[QA.GURU school](https://qa.guru)** и сдаю **[дипломный проект](https://github.com/azolayza/BonsellerAutotests)**.
 
-:arrow_double_up: На курсе и затем в 2х рабочих проектах я использовала такие инструменты и технологии как:</br></br>
-![This is an image](/img/logo/java-logo.svg)
-![This is an image](/img/logo/gradle-logo.svg)
-![This is an image](/img/logo/Intelij_IDEA.png)
-![This is an image](/img/logo/selenide-logo.svg)
-![This is an image](/img/logo/selenoid-logo.svg)
-![This is an image](/img/logo/junit5-logo.svg)
-![This is an image](/img/logo/jenkins-logo.svg)
-![This is an image](/img/logo/allure-report-logo.svg)
-![This is an image](/img/logo/allure-testops-logo.svg)
-![This is an image](/img/logo/telegram-logo.svg)
-![This is an image](/img/logo/jira-logo.svg)</br></br>
+:arrow_double_up: На курсе и затем в 2х рабочих проектах я использовала такие инструменты и технологии как:</br></br>![This is an image](/img/logo/java-logo.svg)![This is an image](/img/logo/gradle-logo.svg)![This is an image](/img/logo/Intelij_IDEA.png)![This is an image](/img/logo/selenide-logo.svg)![This is an image](/img/logo/selenoid-logo.svg)![This is an image](/img/logo/junit5-logo.svg)![This is an image](/img/logo/jenkins-logo.svg)![This is an image](/img/logo/allure-report-logo.svg)![This is an image](/img/logo/allure-testops-logo.svg)![This is an image](/img/logo/telegram-logo.svg)![This is an image](/img/logo/jira-logo.svg)</br></br>
 
 💻 [Пример проекта UI and API тесты](https://github.com/azolayza/BonsellerAutotests) 
 📎 [Мое Резюме](https://drive.google.com/file/d/1TUvs8hP2FrW9m3OHztjwK4NP59xwhAtg/view?usp=sharing)
