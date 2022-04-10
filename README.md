@@ -31,6 +31,11 @@
 <code><img width="5%" title="Telegram" src="img/logo/telegram-logo.svg"></code>
 </p>
 
-💻 [Пример проекта UI and API тесты](https://github.com/azolayza/BonsellerAutotests) 
+## Примеры моих работ 
+:round_pushpin: UI and API тесты для [WebBonSeller](https://github.com/azolayza/BonsellerAutotests)
+
+:round_pushpin: UI тесты для сайта [UTORG_PRO](https://github.com/azolayza/UTORG_PRO_tests)
+
+## Мое резюме
 📎 [Мое Резюме](https://drive.google.com/file/d/1TUvs8hP2FrW9m3OHztjwK4NP59xwhAtg/view?usp=sharing)
 Я :capricorn:
