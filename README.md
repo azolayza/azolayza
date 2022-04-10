@@ -12,7 +12,24 @@
 
 :arrow_double_up: Я закончила курс **[QA.GURU school](https://qa.guru)** и сдаю **[дипломный проект](https://github.com/azolayza/BonsellerAutotests)**.
 
-:arrow_double_up: На курсе и затем в 2х рабочих проектах я использовала такие инструменты и технологии как:</br></br>![This is an image](/img/logo/java-logo.svg)![This is an image](/img/logo/gradle-logo.svg)![This is an image](/img/logo/Intelij_IDEA.png)![This is an image](/img/logo/selenide-logo.svg)![This is an image](/img/logo/selenoid-logo.svg)![This is an image](/img/logo/junit5-logo.svg)![This is an image](/img/logo/jenkins-logo.svg)![This is an image](/img/logo/allure-report-logo.svg)![This is an image](/img/logo/allure-testops-logo.svg)![This is an image](/img/logo/telegram-logo.svg)![This is an image](/img/logo/jira-logo.svg)</br></br>
+:arrow_double_up: В проектах я использую такие инструменты и технологии как:
+
+<p  align="center">
+
+<code><img width="5%" title="Java" src="img/logo/java-logo.svg"></code>
+<code><img width="5%" title="Gradle" src="img/logo/gradle-logo.svg "></code>
+<code><img width="5%" title="JUnit5" src="img/logo/junit5-logo.svg"></code>
+<code><img width="5%" title="Selenide" src="img/logo/selenide-logo.svg"></code>
+<code><img width="5%" title="REST-Assured" src="img/logo/rest-assured-logo.svg"></code>
+<code><img width="5%" title="Jenkins" src="img/logo/jenkins-logo.svg"></code>
+<code><img width="5%" title="Selenoid" src="img/logo/selenoid-logo.svg"></code>
+<code><img width="5%" title="Allure TestOps" src="img/logo/allure-testops-logo.svg"></code>
+<code><img width="5%" title="Allure Report" src="img/logo/allure-report-logo.svg"></code>
+<code><img width="5%" title="Jira" src="img/logo/jira-logo.svg"></code>
+<code><img width="5%" title="Jira" src="img/logo/YouTrack_logo.svg"></code>
+<code><img width="5%" title="Jira" src="img/logo/postman-icon.svg"></code>
+<code><img width="5%" title="Telegram" src="img/logo/telegram-logo.svg"></code>
+</p>
 
 💻 [Пример проекта UI and API тесты](https://github.com/azolayza/BonsellerAutotests) 
 📎 [Мое Резюме](https://drive.google.com/file/d/1TUvs8hP2FrW9m3OHztjwK4NP59xwhAtg/view?usp=sharing)
