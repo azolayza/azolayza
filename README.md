@@ -37,4 +37,8 @@
 :round_pushpin: UI тесты для сайта https://utorg.pro/ : [UTORG_PRO_tests](https://github.com/azolayza/UTORG_PRO_tests)
 
 ## Мое резюме
-📎 [Мое Резюме](https://drive.google.com/file/d/1TUvs8hP2FrW9m3OHztjwK4NP59xwhAtg/view?usp=sharing)
+📎 [Краткое резюме](https://drive.google.com/file/d/1uMxGalqIvlc4kfvW_Ljn9b7YEJFrLyPQ/view?usp=sharing)
+
+## Контакт
+[<img title="My Telegram" alt="azolayza | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/azolayza) 
+
