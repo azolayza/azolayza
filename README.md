@@ -32,9 +32,11 @@
 </p>
 
 ## Примеры моих работ 
-:round_pushpin: UI and API тесты для https://seller.bonpass.com/ : [BonSellerAutotests](https://github.com/azolayza/BonsellerAutotests)
+ #### :round_pushpin: UI and API тесты для https://seller.bonpass.com/ : [BonSellerAutotests](https://github.com/azolayza/BonsellerAutotests)
 
-:round_pushpin: UI тесты для сайта https://utorg.pro/ : [UTORG_PRO_tests](https://github.com/azolayza/UTORG_PRO_tests)
+ #### :round_pushpin: UI тесты для сайта https://utorg.pro/ : [UTORG_PRO_tests](https://github.com/azolayza/UTORG_PRO_tests)
+
+ #### :round_pushpin: Mobile тесты для андроид Wikipedia : [MobileWikiTests](https://github.com/azolayza/Wiki_mobileTests)
 
 ## Мое резюме
 📎 [Краткое резюме](https://drive.google.com/file/d/1AwZuPOlhJK9cDNHd09iRHjVBmKt1c7wK/view?usp=sharing)
